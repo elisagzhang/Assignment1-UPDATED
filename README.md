@@ -52,7 +52,7 @@ This website serves to mainly to provide information regarding medical drugs. It
 ## Help users recognize, diagnose, and recover from errors
 - provides error page and suggestions for bad search terms 
 - does not distinguish if username or password is wrong when trying to login (1)
-- again, why is the log out button a tab? i clicked it thinking that it was another page and i was immediately logged out?
+- again, why is the log out button a tab? i clicked it thinking that it was another page and i was immediately logged out (2)
 
 ## Help and documentation
 - the main site is essentially one big help page, but it doesn't feel streamlined and is hard to nagivate (2)
