@@ -1,6 +1,6 @@
 This website serves to mainly to provide information regarding medical drugs. It includes FDA information, help identifying pills, an interactions checker, treatments, comparison, price checking, etc. There is also current medical news, information on diseases, and other general health information.
 
-[View the Drugs.com website.](https://www.drugs.com/)
+[View the Drugs.com website](https://www.drugs.com/)
 
 # *Evaluation of 10 Heuristics*
 ## Visibility of System Status
