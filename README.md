@@ -5,9 +5,9 @@ This website serves to mainly to provide information regarding medical drugs. It
 # *Evaluation of 10 Heuristics*
 
 Severity Ratings
-3 = major usability problem, important to fix, top priority
-2 = medium priority
-1 = low priority
+- 3 = major usability problem, important to fix, top priority
+- 2 = medium priority
+- 1 = low priority
 
 ## Visibility of System Status
 - on the front page, there is a slideshow/scroll feature but the buttons don't indicate that you can click them to scroll through. this hides a lot of the features the website offers (3)
